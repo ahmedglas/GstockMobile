@@ -15,3 +15,9 @@ fonctionnalités:
 - Possibilité de générer la liste des composants non encore retournés et celui qui les a empruntés et leurs numéros de téléphone.
 - Possibilité de générer la liste des composants non encore retournés et celui qui les a empruntés et leurs numéros de téléphone.
 
+<h1>Admin Account </h1>
+- username: Admin
+- password: 123
+
+
+développer par : Ahmed Saadi.
